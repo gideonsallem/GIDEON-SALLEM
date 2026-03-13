@@ -1,4 +1,4 @@
-##👋 Hi, I'm Gideon Sallem
+👋 Hi, I'm Gideon Sallem
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -81,6 +81,7 @@ Version control
 
 - **Project A:**📱 Projects
 FocusPad
+
 
 A productivity application designed to help users manage their daily activities.
 
