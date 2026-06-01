@@ -129,7 +129,7 @@ An offline-first, privacy-respecting productivity application designed to stream
 * **Local Notification Pushes:** Leverages the native Android Notification Manager to execute precise event reminders based on localized epoch timestamp alerts.
 
 <p align="center">
-  <img src="Edited_20260601_002959" alt="FocusPad Offline Application Walkthrough" width="100%">
+  <img src="FocusPad Productivity app.jpg" alt="FocusPad Offline Application Walkthrough" width="100%">
 </p>
 <p align="center"><em>Figure 5: In-app execution demonstrating real-time local persistence and calendar views.</em></p>
 
