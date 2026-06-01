@@ -145,7 +145,7 @@ A fast, lightweight, ultra-responsive cross-platform application developed to pe
 * **Clean UI System:** Designed with minimalist interface principles to emphasize instantaneous input resolution and data clarity.
 
 <p align="center">
-  <img src="Screenshot_20260326_145959[1].jpg" alt="UnitConverter Interface Walkthrough" width="50%">
+  <img src="Screenshot_20260326_145959[1].jpg" alt="UnitConverter Interface Walkthrough" width="50%"> 
 </p>
 <p align="center"><em>Figure 6: Demonstration of real-time multi-family volumetric and dimensional conversions.</em></p>
 
