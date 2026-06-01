@@ -59,7 +59,7 @@ Hooklines is a premium B2B SaaS architecture engineered to accelerate organic au
 * **Infrastructure & Security:** Built with Redis-backed token bucket rate-limiting to optimize API overhead and fully integrated with Paystack/Paddle for robust international merchant processing. PostHog analytics map comprehensive behavioral user flows.
 
 <p align="center">
-  <img src="assets/hooklines-demo.gif" alt="Hooklines Web Platform Interface Demonstration" width="100%">
+  <img src="assets/hooklines-demo.png" alt="Hooklines Web Platform Interface Demonstration" width="100%">
 </p>
 <p align="center"><em>Figure 1: Hooklines Platform Workspace Dashboard and AI Script Generation Flow.</em></p>
 
