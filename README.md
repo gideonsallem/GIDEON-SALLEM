@@ -161,7 +161,8 @@ A highly accurate, responsive, and beautifully animations-driven digital calcula
 * **Fluid Responsive Web/Mobile Views:** Styled to conform beautifully to varying viewport scales, emphasizing smooth interactive micro-gestures.
 
 <p align="center">
-  <img src="Screenshot_20260326_145959[1].jpg" alt="Calculator App Interaction View" width="50%">
+  <img src="
+Screenshot_20260601_022222_com.example.calculator_app[1].jpg" alt="Calculator App Interaction View" width="50%">
 </p>
 <p align="center"><em>Figure 7: Live layout analysis showing mathematical expression evaluation.</em></p>
 
