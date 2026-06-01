@@ -95,7 +95,7 @@ A highly interactive word puzzle game engineered to test lexical knowledge, spat
 
 <p align="center">
   <img src="Screenshot_20260402_010604" width="45%" alt="WordPuzzleHero Gameplay Screen"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/wordpuzzlehero-ui2.png" width="45%" alt="WordPuzzleHero Wallet Screen">
+  <img src="Screenshot_20260402_010604" width="45%" alt="WordPuzzleHero Wallet Screen">
 </p>
 <p align="center"><em>Figure 3: Core gameplay interactions, dictionary lookup matrices, and user point ledgers.</em></p>
 
