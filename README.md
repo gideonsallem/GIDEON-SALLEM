@@ -77,7 +77,7 @@ PointQuest transforms high-demand digital skill acquisition into an immersive, r
 
 <p align="center">
   <img src="assetspointquest-screenshot1[1].jpg" width="45%" alt="PointQuest Learning Dashboard"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assetspointquest-screenshot1[2].jpg" width="45%" alt="PointQuest Rewards Panel">
+  <img src="assetspointquest-screenshot1.jpg" width="45%" alt="PointQuest Rewards Panel">
 </p>
 <p align="center"><em>Figure 2: User interface execution, real-time leaderboards, and gamified quiz systems.</em></p>
 
