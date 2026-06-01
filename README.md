@@ -94,8 +94,8 @@ A highly interactive word puzzle game engineered to test lexical knowledge, spat
 * **Monetization Architecture:** Native integration of Google AdMob, running structured rewarded interstitial ad video setups to optimize eCPM while preserving app performance.
 
 <p align="center">
-  <img src="Screenshot_20260601_024530_com.example.wordpuzzlehero[1].jpg" width="45%" alt="WordPuzzleHero Gameplay Screen"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Screenshot_20260402_010604[1].jpg" width="45%" alt="WordPuzzleHero Wallet Screen">
+  <img src="wordpuzzle1.jpg" width="45%" alt="WordPuzzleHero Gameplay Screen"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="wordpuzzle2.jpg" width="45%" alt="WordPuzzleHero Wallet Screen">
 </p>
 <p align="center"><em>Figure 3: Core gameplay interactions, dictionary lookup matrices, and user point ledgers.</em></p>
 
