@@ -61,7 +61,7 @@ Hooklines is a premium B2B SaaS architecture engineered to accelerate organic au
 <p align="center">
   <img src="assetshooklines-demo.png" alt="Hooklines Web Platform Interface Demonstration" width="100%">
 </p>
-<p align="center"><em>Figure 1: Hooklines Platform Workspace Dashboard and AI Script Generation Flow.</em></p>
+<p align="center"><em>Figure 1: Hooklines Platform Workspace Dashboard and AI Script Generation Flow.</em></p> 
 
 ---
 
