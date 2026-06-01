@@ -76,8 +76,8 @@ PointQuest transforms high-demand digital skill acquisition into an immersive, r
 * **State-of-the-Art UI/UX:** Built entirely on Jetpack Compose using fluid declarative states and strict Material 3 structural parameters.
 
 <p align="center">
-  <img src="assets/pointquest-screenshot1.png" width="45%" alt="PointQuest Learning Dashboard"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/pointquest-screenshot2.png" width="45%" alt="PointQuest Rewards Panel">
+  <img src="assetspointquest-screenshot1[1].jpg" width="45%" alt="PointQuest Learning Dashboard"> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assetspointquest-screenshot1[2].jpg" width="45%" alt="PointQuest Rewards Panel">
 </p>
 <p align="center"><em>Figure 2: User interface execution, real-time leaderboards, and gamified quiz systems.</em></p>
 
