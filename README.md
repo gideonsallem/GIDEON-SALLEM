@@ -112,7 +112,7 @@ An educational infrastructure engineered for university students to optimize stu
 * **Project Lifecycle Status:** *Currently paused at the core structural MVP stage. Architecture scales fluidly across multi-platform viewports, waiting for Phase 2 vector store integration.*
 
 <p align="center">
-  <img src="assetsbookdemy-concept.png" width="80%" alt="Bookdemy Product Design Mockup">
+  <img src="assets/bookdemy-concept.png" width="80%" alt="Bookdemy Product Design Mockup">
 </p>
 <p align="center"><em>Figure 4: Interface mockups displaying AI-driven flashcard modules and document processing portals.</em></p>
 
